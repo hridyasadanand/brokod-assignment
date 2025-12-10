@@ -6,11 +6,12 @@ body {
 }
 
 .container {
-  max-width: 900px;
+  max-width: 600px;  /* Instead of 900px */
   margin: auto;
   padding: 20px;
-  text-align: center; /* centers heading/search */
+  text-align: center;
 }
+
 
 
 .header {
